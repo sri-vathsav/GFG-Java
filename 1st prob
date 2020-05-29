@@ -1,0 +1,31 @@
+//Initial Template for Java
+
+ // } Driver Code Ends
+
+
+//User function Template for Java
+
+class Geeks{
+    
+    // Function to print each word in single line
+    static void printIndividualLine(){
+        
+       System.out.println("Geeks"); // Your code here
+       System.out.println("for"); // Your code here
+       System.out.println("Geeks"); // Your code here
+
+    }
+    
+}
+
+// { Driver Code Starts.
+class GfG{
+    
+    public static void main(String args[]){
+        
+        Geeks g = new Geeks();
+        
+        g.printIndividualLine();
+    }
+    
+}  // } Driver Code Ends
