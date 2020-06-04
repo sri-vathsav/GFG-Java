@@ -1,0 +1,13 @@
+//using printf and format
+ 
+ 
+ public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		int x=20;
+		int y=30;
+		System.out.printf("Sum is : %d ",x+y);
+		System.out.format("sub is : %d ",y-x);
+	}
+}
